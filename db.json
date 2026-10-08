@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "fullName": "John Doe",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
+      "createdAt": "2026-02-17T10:00:00Z"
+    },
+    {
+      "username": "shahid",
+      "email": "shahi@gmail.com",
+      "password": "55005500",
+      "fullName": "muhammed shahid",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
+      "createdAt": "2026-09-30T09:07:14.319Z",
+      "id": "zcuKLoTflkg"
+    },
+    {
+      "username": "muhammed ",
+      "email": "muhammedshahid@gmail.com",
+      "password": "123456",
+      "fullName": "shahid",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
+      "createdAt": "2026-10-08T05:28:12.715Z",
+      "id": "GsXggjH-7FY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
